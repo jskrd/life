@@ -8,4 +8,4 @@ inputs:
     src: ./
     hook: npm run build
     dist: ./dist
-  domain: skrd.io
+  domain: life.skrd.io
