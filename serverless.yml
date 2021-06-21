@@ -1,0 +1,11 @@
+org: rgfmd
+app: life
+name: app
+component: website
+
+inputs:
+  src:
+    src: ./
+    hook: npm run build
+    dist: ./dist
+  domain: skrd.io
